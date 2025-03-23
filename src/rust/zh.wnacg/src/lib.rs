@@ -14,7 +14,7 @@ use aidoku::{
 };
 use alloc::string::ToString;
 
-const WWW_URL: &str = "https://www.wnacg01.cc";
+const WWW_URL: &str = "www.wn03.ru";
 
 const FILTER_CATEGORY: [&str; 4] = ["", "5", "6", "7"];
 const FILTER_CATEGORY_5: [&str; 4] = ["5", "1", "12", "16"];
